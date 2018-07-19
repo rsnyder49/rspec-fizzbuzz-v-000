@@ -11,8 +11,7 @@ def fizzbuzz(int)
   elsif int % 5 === 0 
     puts "Buzz"
   
-else
-  
-  
-    
+  else
+  return nil 
+   end 
 end 
